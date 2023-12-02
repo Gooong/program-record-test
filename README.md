@@ -5,6 +5,7 @@ This program is used to show that:
 - a program can be assigned record
 - but the program can not spend the record
 
+This means that a record assigned to a program will be lost forever implicitly.
 
 ## Run Guide
 

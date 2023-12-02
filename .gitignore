@@ -1,0 +1,4 @@
+*.avm
+*.prover
+*.verifier
+outputs/
